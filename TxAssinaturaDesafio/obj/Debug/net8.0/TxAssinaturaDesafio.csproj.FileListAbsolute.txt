@@ -1,0 +1,14 @@
+C:\Users\allan\Documents\Projetos\CsharpProjects\TxAssinaturaDesafio\bin\Debug\net8.0\TxAssinaturaDesafio.exe
+C:\Users\allan\Documents\Projetos\CsharpProjects\TxAssinaturaDesafio\bin\Debug\net8.0\TxAssinaturaDesafio.deps.json
+C:\Users\allan\Documents\Projetos\CsharpProjects\TxAssinaturaDesafio\bin\Debug\net8.0\TxAssinaturaDesafio.runtimeconfig.json
+C:\Users\allan\Documents\Projetos\CsharpProjects\TxAssinaturaDesafio\bin\Debug\net8.0\TxAssinaturaDesafio.dll
+C:\Users\allan\Documents\Projetos\CsharpProjects\TxAssinaturaDesafio\bin\Debug\net8.0\TxAssinaturaDesafio.pdb
+C:\Users\allan\Documents\Projetos\CsharpProjects\TxAssinaturaDesafio\obj\Debug\net8.0\TxAssinaturaDesafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allan\Documents\Projetos\CsharpProjects\TxAssinaturaDesafio\obj\Debug\net8.0\TxAssinaturaDesafio.AssemblyInfoInputs.cache
+C:\Users\allan\Documents\Projetos\CsharpProjects\TxAssinaturaDesafio\obj\Debug\net8.0\TxAssinaturaDesafio.AssemblyInfo.cs
+C:\Users\allan\Documents\Projetos\CsharpProjects\TxAssinaturaDesafio\obj\Debug\net8.0\TxAssinaturaDesafio.csproj.CoreCompileInputs.cache
+C:\Users\allan\Documents\Projetos\CsharpProjects\TxAssinaturaDesafio\obj\Debug\net8.0\TxAssinaturaDesafio.dll
+C:\Users\allan\Documents\Projetos\CsharpProjects\TxAssinaturaDesafio\obj\Debug\net8.0\refint\TxAssinaturaDesafio.dll
+C:\Users\allan\Documents\Projetos\CsharpProjects\TxAssinaturaDesafio\obj\Debug\net8.0\TxAssinaturaDesafio.pdb
+C:\Users\allan\Documents\Projetos\CsharpProjects\TxAssinaturaDesafio\obj\Debug\net8.0\TxAssinaturaDesafio.genruntimeconfig.cache
+C:\Users\allan\Documents\Projetos\CsharpProjects\TxAssinaturaDesafio\obj\Debug\net8.0\ref\TxAssinaturaDesafio.dll
