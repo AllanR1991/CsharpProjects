@@ -29,13 +29,17 @@ if ((roll1 == roll2) || (roll2 == roll3) || (roll1 == roll3))
 
 
 
-if (total >= 15)
+if (total >= 16)
 {
-    Console.WriteLine("You win!");
+    Console.WriteLine("You win a new car!");
 }
-else
+else if (total >= 10)
 {
-    Console.WriteLine("Sorry, you lose.");
+    Console.WriteLine("You win a new laptop!");
+}
+else if (total == 7)
+{
+    Console.WriteLine("You win a kitten!");
 }
 
 
