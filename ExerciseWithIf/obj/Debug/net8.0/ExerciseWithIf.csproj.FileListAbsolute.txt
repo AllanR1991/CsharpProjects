@@ -1,0 +1,14 @@
+C:\Users\allan\Documents\Projetos\CsharpProjects\ExerciseWithIf\obj\Debug\net8.0\ExerciseWithIf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allan\Documents\Projetos\CsharpProjects\ExerciseWithIf\obj\Debug\net8.0\ExerciseWithIf.AssemblyInfoInputs.cache
+C:\Users\allan\Documents\Projetos\CsharpProjects\ExerciseWithIf\obj\Debug\net8.0\ExerciseWithIf.AssemblyInfo.cs
+C:\Users\allan\Documents\Projetos\CsharpProjects\ExerciseWithIf\obj\Debug\net8.0\ExerciseWithIf.csproj.CoreCompileInputs.cache
+C:\Users\allan\Documents\Projetos\CsharpProjects\ExerciseWithIf\bin\Debug\net8.0\ExerciseWithIf.exe
+C:\Users\allan\Documents\Projetos\CsharpProjects\ExerciseWithIf\bin\Debug\net8.0\ExerciseWithIf.deps.json
+C:\Users\allan\Documents\Projetos\CsharpProjects\ExerciseWithIf\bin\Debug\net8.0\ExerciseWithIf.runtimeconfig.json
+C:\Users\allan\Documents\Projetos\CsharpProjects\ExerciseWithIf\bin\Debug\net8.0\ExerciseWithIf.dll
+C:\Users\allan\Documents\Projetos\CsharpProjects\ExerciseWithIf\bin\Debug\net8.0\ExerciseWithIf.pdb
+C:\Users\allan\Documents\Projetos\CsharpProjects\ExerciseWithIf\obj\Debug\net8.0\ExerciseWithIf.dll
+C:\Users\allan\Documents\Projetos\CsharpProjects\ExerciseWithIf\obj\Debug\net8.0\refint\ExerciseWithIf.dll
+C:\Users\allan\Documents\Projetos\CsharpProjects\ExerciseWithIf\obj\Debug\net8.0\ExerciseWithIf.pdb
+C:\Users\allan\Documents\Projetos\CsharpProjects\ExerciseWithIf\obj\Debug\net8.0\ExerciseWithIf.genruntimeconfig.cache
+C:\Users\allan\Documents\Projetos\CsharpProjects\ExerciseWithIf\obj\Debug\net8.0\ref\ExerciseWithIf.dll
