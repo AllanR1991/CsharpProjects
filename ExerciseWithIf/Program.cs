@@ -39,6 +39,10 @@ else if (total >= 10)
 }
 else if (total == 7)
 {
+    Console.WriteLine("You win a trip for two!");
+}
+else
+{
     Console.WriteLine("You win a kitten!");
 }
 
