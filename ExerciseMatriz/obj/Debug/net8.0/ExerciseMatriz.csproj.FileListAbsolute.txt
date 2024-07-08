@@ -1,0 +1,14 @@
+C:\Users\allan\Documents\Projetos\CsharpProjects\ExerciseMatriz\bin\Debug\net8.0\ExerciseMatriz.exe
+C:\Users\allan\Documents\Projetos\CsharpProjects\ExerciseMatriz\bin\Debug\net8.0\ExerciseMatriz.deps.json
+C:\Users\allan\Documents\Projetos\CsharpProjects\ExerciseMatriz\bin\Debug\net8.0\ExerciseMatriz.runtimeconfig.json
+C:\Users\allan\Documents\Projetos\CsharpProjects\ExerciseMatriz\bin\Debug\net8.0\ExerciseMatriz.dll
+C:\Users\allan\Documents\Projetos\CsharpProjects\ExerciseMatriz\bin\Debug\net8.0\ExerciseMatriz.pdb
+C:\Users\allan\Documents\Projetos\CsharpProjects\ExerciseMatriz\obj\Debug\net8.0\ExerciseMatriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allan\Documents\Projetos\CsharpProjects\ExerciseMatriz\obj\Debug\net8.0\ExerciseMatriz.AssemblyInfoInputs.cache
+C:\Users\allan\Documents\Projetos\CsharpProjects\ExerciseMatriz\obj\Debug\net8.0\ExerciseMatriz.AssemblyInfo.cs
+C:\Users\allan\Documents\Projetos\CsharpProjects\ExerciseMatriz\obj\Debug\net8.0\ExerciseMatriz.csproj.CoreCompileInputs.cache
+C:\Users\allan\Documents\Projetos\CsharpProjects\ExerciseMatriz\obj\Debug\net8.0\ExerciseMatriz.dll
+C:\Users\allan\Documents\Projetos\CsharpProjects\ExerciseMatriz\obj\Debug\net8.0\refint\ExerciseMatriz.dll
+C:\Users\allan\Documents\Projetos\CsharpProjects\ExerciseMatriz\obj\Debug\net8.0\ExerciseMatriz.pdb
+C:\Users\allan\Documents\Projetos\CsharpProjects\ExerciseMatriz\obj\Debug\net8.0\ExerciseMatriz.genruntimeconfig.cache
+C:\Users\allan\Documents\Projetos\CsharpProjects\ExerciseMatriz\obj\Debug\net8.0\ref\ExerciseMatriz.dll
