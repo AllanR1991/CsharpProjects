@@ -1,0 +1,14 @@
+C:\Users\allan\Documents\Projetos\CsharpProjects\ForEach\bin\Debug\net8.0\ForEach.exe
+C:\Users\allan\Documents\Projetos\CsharpProjects\ForEach\bin\Debug\net8.0\ForEach.deps.json
+C:\Users\allan\Documents\Projetos\CsharpProjects\ForEach\bin\Debug\net8.0\ForEach.runtimeconfig.json
+C:\Users\allan\Documents\Projetos\CsharpProjects\ForEach\bin\Debug\net8.0\ForEach.dll
+C:\Users\allan\Documents\Projetos\CsharpProjects\ForEach\bin\Debug\net8.0\ForEach.pdb
+C:\Users\allan\Documents\Projetos\CsharpProjects\ForEach\obj\Debug\net8.0\ForEach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allan\Documents\Projetos\CsharpProjects\ForEach\obj\Debug\net8.0\ForEach.AssemblyInfoInputs.cache
+C:\Users\allan\Documents\Projetos\CsharpProjects\ForEach\obj\Debug\net8.0\ForEach.AssemblyInfo.cs
+C:\Users\allan\Documents\Projetos\CsharpProjects\ForEach\obj\Debug\net8.0\ForEach.csproj.CoreCompileInputs.cache
+C:\Users\allan\Documents\Projetos\CsharpProjects\ForEach\obj\Debug\net8.0\ForEach.dll
+C:\Users\allan\Documents\Projetos\CsharpProjects\ForEach\obj\Debug\net8.0\refint\ForEach.dll
+C:\Users\allan\Documents\Projetos\CsharpProjects\ForEach\obj\Debug\net8.0\ForEach.pdb
+C:\Users\allan\Documents\Projetos\CsharpProjects\ForEach\obj\Debug\net8.0\ForEach.genruntimeconfig.cache
+C:\Users\allan\Documents\Projetos\CsharpProjects\ForEach\obj\Debug\net8.0\ref\ForEach.dll
