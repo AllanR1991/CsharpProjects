@@ -1,0 +1,14 @@
+C:\Users\allan\Documents\Projetos\CsharpProjects\DesafioPedidosFraudulentos\bin\Debug\net8.0\DesafioPedidosFraudulentos.exe
+C:\Users\allan\Documents\Projetos\CsharpProjects\DesafioPedidosFraudulentos\bin\Debug\net8.0\DesafioPedidosFraudulentos.deps.json
+C:\Users\allan\Documents\Projetos\CsharpProjects\DesafioPedidosFraudulentos\bin\Debug\net8.0\DesafioPedidosFraudulentos.runtimeconfig.json
+C:\Users\allan\Documents\Projetos\CsharpProjects\DesafioPedidosFraudulentos\bin\Debug\net8.0\DesafioPedidosFraudulentos.dll
+C:\Users\allan\Documents\Projetos\CsharpProjects\DesafioPedidosFraudulentos\bin\Debug\net8.0\DesafioPedidosFraudulentos.pdb
+C:\Users\allan\Documents\Projetos\CsharpProjects\DesafioPedidosFraudulentos\obj\Debug\net8.0\DesafioPedidosFraudulentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allan\Documents\Projetos\CsharpProjects\DesafioPedidosFraudulentos\obj\Debug\net8.0\DesafioPedidosFraudulentos.AssemblyInfoInputs.cache
+C:\Users\allan\Documents\Projetos\CsharpProjects\DesafioPedidosFraudulentos\obj\Debug\net8.0\DesafioPedidosFraudulentos.AssemblyInfo.cs
+C:\Users\allan\Documents\Projetos\CsharpProjects\DesafioPedidosFraudulentos\obj\Debug\net8.0\DesafioPedidosFraudulentos.csproj.CoreCompileInputs.cache
+C:\Users\allan\Documents\Projetos\CsharpProjects\DesafioPedidosFraudulentos\obj\Debug\net8.0\DesafioPedidosFraudulentos.dll
+C:\Users\allan\Documents\Projetos\CsharpProjects\DesafioPedidosFraudulentos\obj\Debug\net8.0\refint\DesafioPedidosFraudulentos.dll
+C:\Users\allan\Documents\Projetos\CsharpProjects\DesafioPedidosFraudulentos\obj\Debug\net8.0\DesafioPedidosFraudulentos.pdb
+C:\Users\allan\Documents\Projetos\CsharpProjects\DesafioPedidosFraudulentos\obj\Debug\net8.0\DesafioPedidosFraudulentos.genruntimeconfig.cache
+C:\Users\allan\Documents\Projetos\CsharpProjects\DesafioPedidosFraudulentos\obj\Debug\net8.0\ref\DesafioPedidosFraudulentos.dll
