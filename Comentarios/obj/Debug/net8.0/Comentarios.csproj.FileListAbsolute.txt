@@ -1,0 +1,14 @@
+C:\Users\allan\Documents\Projetos\CsharpProjects\Comentarios\bin\Debug\net8.0\Comentarios.exe
+C:\Users\allan\Documents\Projetos\CsharpProjects\Comentarios\bin\Debug\net8.0\Comentarios.deps.json
+C:\Users\allan\Documents\Projetos\CsharpProjects\Comentarios\bin\Debug\net8.0\Comentarios.runtimeconfig.json
+C:\Users\allan\Documents\Projetos\CsharpProjects\Comentarios\bin\Debug\net8.0\Comentarios.dll
+C:\Users\allan\Documents\Projetos\CsharpProjects\Comentarios\bin\Debug\net8.0\Comentarios.pdb
+C:\Users\allan\Documents\Projetos\CsharpProjects\Comentarios\obj\Debug\net8.0\Comentarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allan\Documents\Projetos\CsharpProjects\Comentarios\obj\Debug\net8.0\Comentarios.AssemblyInfoInputs.cache
+C:\Users\allan\Documents\Projetos\CsharpProjects\Comentarios\obj\Debug\net8.0\Comentarios.AssemblyInfo.cs
+C:\Users\allan\Documents\Projetos\CsharpProjects\Comentarios\obj\Debug\net8.0\Comentarios.csproj.CoreCompileInputs.cache
+C:\Users\allan\Documents\Projetos\CsharpProjects\Comentarios\obj\Debug\net8.0\Comentarios.dll
+C:\Users\allan\Documents\Projetos\CsharpProjects\Comentarios\obj\Debug\net8.0\refint\Comentarios.dll
+C:\Users\allan\Documents\Projetos\CsharpProjects\Comentarios\obj\Debug\net8.0\Comentarios.pdb
+C:\Users\allan\Documents\Projetos\CsharpProjects\Comentarios\obj\Debug\net8.0\Comentarios.genruntimeconfig.cache
+C:\Users\allan\Documents\Projetos\CsharpProjects\Comentarios\obj\Debug\net8.0\ref\Comentarios.dll
