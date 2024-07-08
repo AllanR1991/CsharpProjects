@@ -29,7 +29,10 @@
 int firstValue = 500;
 int secondValue = 600;
 int largerValue;
+int smallerValue;
 
 largerValue = Math.Max(firstValue, secondValue);
+smallerValue = Math.Min(firstValue, secondValue);
 
 Console.WriteLine(largerValue);
+Console.WriteLine(smallerValue);
