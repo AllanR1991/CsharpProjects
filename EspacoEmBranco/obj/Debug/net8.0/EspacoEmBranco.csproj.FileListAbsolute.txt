@@ -1,0 +1,14 @@
+C:\Users\allan\Documents\Projetos\CsharpProjects\EspacoEmBranco\bin\Debug\net8.0\EspacoEmBranco.exe
+C:\Users\allan\Documents\Projetos\CsharpProjects\EspacoEmBranco\bin\Debug\net8.0\EspacoEmBranco.deps.json
+C:\Users\allan\Documents\Projetos\CsharpProjects\EspacoEmBranco\bin\Debug\net8.0\EspacoEmBranco.runtimeconfig.json
+C:\Users\allan\Documents\Projetos\CsharpProjects\EspacoEmBranco\bin\Debug\net8.0\EspacoEmBranco.dll
+C:\Users\allan\Documents\Projetos\CsharpProjects\EspacoEmBranco\bin\Debug\net8.0\EspacoEmBranco.pdb
+C:\Users\allan\Documents\Projetos\CsharpProjects\EspacoEmBranco\obj\Debug\net8.0\EspacoEmBranco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allan\Documents\Projetos\CsharpProjects\EspacoEmBranco\obj\Debug\net8.0\EspacoEmBranco.AssemblyInfoInputs.cache
+C:\Users\allan\Documents\Projetos\CsharpProjects\EspacoEmBranco\obj\Debug\net8.0\EspacoEmBranco.AssemblyInfo.cs
+C:\Users\allan\Documents\Projetos\CsharpProjects\EspacoEmBranco\obj\Debug\net8.0\EspacoEmBranco.csproj.CoreCompileInputs.cache
+C:\Users\allan\Documents\Projetos\CsharpProjects\EspacoEmBranco\obj\Debug\net8.0\EspacoEmBranco.dll
+C:\Users\allan\Documents\Projetos\CsharpProjects\EspacoEmBranco\obj\Debug\net8.0\refint\EspacoEmBranco.dll
+C:\Users\allan\Documents\Projetos\CsharpProjects\EspacoEmBranco\obj\Debug\net8.0\EspacoEmBranco.pdb
+C:\Users\allan\Documents\Projetos\CsharpProjects\EspacoEmBranco\obj\Debug\net8.0\EspacoEmBranco.genruntimeconfig.cache
+C:\Users\allan\Documents\Projetos\CsharpProjects\EspacoEmBranco\obj\Debug\net8.0\ref\EspacoEmBranco.dll
