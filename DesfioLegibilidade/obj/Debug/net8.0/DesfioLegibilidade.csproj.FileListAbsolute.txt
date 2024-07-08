@@ -1,0 +1,14 @@
+C:\Users\allan\Documents\Projetos\CsharpProjects\DesfioLegibilidade\bin\Debug\net8.0\DesfioLegibilidade.exe
+C:\Users\allan\Documents\Projetos\CsharpProjects\DesfioLegibilidade\bin\Debug\net8.0\DesfioLegibilidade.deps.json
+C:\Users\allan\Documents\Projetos\CsharpProjects\DesfioLegibilidade\bin\Debug\net8.0\DesfioLegibilidade.runtimeconfig.json
+C:\Users\allan\Documents\Projetos\CsharpProjects\DesfioLegibilidade\bin\Debug\net8.0\DesfioLegibilidade.dll
+C:\Users\allan\Documents\Projetos\CsharpProjects\DesfioLegibilidade\bin\Debug\net8.0\DesfioLegibilidade.pdb
+C:\Users\allan\Documents\Projetos\CsharpProjects\DesfioLegibilidade\obj\Debug\net8.0\DesfioLegibilidade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allan\Documents\Projetos\CsharpProjects\DesfioLegibilidade\obj\Debug\net8.0\DesfioLegibilidade.AssemblyInfoInputs.cache
+C:\Users\allan\Documents\Projetos\CsharpProjects\DesfioLegibilidade\obj\Debug\net8.0\DesfioLegibilidade.AssemblyInfo.cs
+C:\Users\allan\Documents\Projetos\CsharpProjects\DesfioLegibilidade\obj\Debug\net8.0\DesfioLegibilidade.csproj.CoreCompileInputs.cache
+C:\Users\allan\Documents\Projetos\CsharpProjects\DesfioLegibilidade\obj\Debug\net8.0\DesfioLegibilidade.dll
+C:\Users\allan\Documents\Projetos\CsharpProjects\DesfioLegibilidade\obj\Debug\net8.0\refint\DesfioLegibilidade.dll
+C:\Users\allan\Documents\Projetos\CsharpProjects\DesfioLegibilidade\obj\Debug\net8.0\DesfioLegibilidade.pdb
+C:\Users\allan\Documents\Projetos\CsharpProjects\DesfioLegibilidade\obj\Debug\net8.0\DesfioLegibilidade.genruntimeconfig.cache
+C:\Users\allan\Documents\Projetos\CsharpProjects\DesfioLegibilidade\obj\Debug\net8.0\ref\DesfioLegibilidade.dll
