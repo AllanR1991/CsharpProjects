@@ -33,7 +33,7 @@ string currentStudentLetterGrade = "";
 
 // display the header row for scores/grades
 Console.Clear();
-Console.WriteLine("Student\t\tGrade\tLetter Grade\n");
+Console.WriteLine("Student\t\tExam Score\tOverall Grade\tExtra Credit\n");
 
 /*
 The outer foreach loop is used to:
@@ -65,6 +65,14 @@ foreach (string name in studentNames)
 
     int gradedAssignments = 0;
 
+    decimal currentStudentExameScore = 0;
+
+    decimal currentStudentExtraCreditScore = 0;
+
+    decimal currentStudentExtraCreditPoints = 0;
+
+    int sumAssignmentExtraScores = 0;
+
     /* 
     the inner foreach loop sums assignment scores
     extra credit assignments are worth 10% of an exam score
@@ -74,13 +82,19 @@ foreach (string name in studentNames)
         gradedAssignments += 1;
 
         if (gradedAssignments <= examAssignments)
+        {
             sumAssignmentScores += score;
-
+            currentStudentExameScore = (decimal)sumAssignmentScores / examAssignments;
+        }
         else
-            sumAssignmentScores += score / 10;
+        {            
+            sumAssignmentExtraScores += score;
+        }  
     }
 
-    currentStudentGrade = (decimal)(sumAssignmentScores) / examAssignments;
+    currentStudentExtraCreditScore += sumAssignmentExtraScores / ( gradedAssignments - examAssignments );
+    currentStudentGrade = (((decimal)sumAssignmentExtraScores / 10) + sumAssignmentScores) / examAssignments;
+    currentStudentExtraCreditPoints = ((decimal)sumAssignmentExtraScores / 10) / examAssignments;
 
     if (currentStudentGrade >= 97)
         currentStudentLetterGrade = "A+";
@@ -124,7 +138,7 @@ foreach (string name in studentNames)
     // Student         Grade
     // Sophia:         92.2    A-
     
-    Console.WriteLine($"{currentStudent}\t\t{currentStudentGrade}\t{currentStudentLetterGrade}");
+    Console.WriteLine($"{currentStudent}\t\t{currentStudentExameScore}\t\t{currentStudentGrade}\t{currentStudentLetterGrade}\t{currentStudentExtraCreditScore} ({currentStudentExtraCreditPoints} pts)");
 }
 
 // required for running in VS Code (keeps the Output windows open to view results)
