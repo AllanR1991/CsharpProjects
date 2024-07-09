@@ -1,0 +1,14 @@
+C:\Users\allan\Documents\Projetos\CsharpProjects\ExpressoesBoolianas\bin\Debug\net8.0\ExpressoesBoolianas.exe
+C:\Users\allan\Documents\Projetos\CsharpProjects\ExpressoesBoolianas\bin\Debug\net8.0\ExpressoesBoolianas.deps.json
+C:\Users\allan\Documents\Projetos\CsharpProjects\ExpressoesBoolianas\bin\Debug\net8.0\ExpressoesBoolianas.runtimeconfig.json
+C:\Users\allan\Documents\Projetos\CsharpProjects\ExpressoesBoolianas\bin\Debug\net8.0\ExpressoesBoolianas.dll
+C:\Users\allan\Documents\Projetos\CsharpProjects\ExpressoesBoolianas\bin\Debug\net8.0\ExpressoesBoolianas.pdb
+C:\Users\allan\Documents\Projetos\CsharpProjects\ExpressoesBoolianas\obj\Debug\net8.0\ExpressoesBoolianas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allan\Documents\Projetos\CsharpProjects\ExpressoesBoolianas\obj\Debug\net8.0\ExpressoesBoolianas.AssemblyInfoInputs.cache
+C:\Users\allan\Documents\Projetos\CsharpProjects\ExpressoesBoolianas\obj\Debug\net8.0\ExpressoesBoolianas.AssemblyInfo.cs
+C:\Users\allan\Documents\Projetos\CsharpProjects\ExpressoesBoolianas\obj\Debug\net8.0\ExpressoesBoolianas.csproj.CoreCompileInputs.cache
+C:\Users\allan\Documents\Projetos\CsharpProjects\ExpressoesBoolianas\obj\Debug\net8.0\ExpressoesBoolianas.dll
+C:\Users\allan\Documents\Projetos\CsharpProjects\ExpressoesBoolianas\obj\Debug\net8.0\refint\ExpressoesBoolianas.dll
+C:\Users\allan\Documents\Projetos\CsharpProjects\ExpressoesBoolianas\obj\Debug\net8.0\ExpressoesBoolianas.pdb
+C:\Users\allan\Documents\Projetos\CsharpProjects\ExpressoesBoolianas\obj\Debug\net8.0\ExpressoesBoolianas.genruntimeconfig.cache
+C:\Users\allan\Documents\Projetos\CsharpProjects\ExpressoesBoolianas\obj\Debug\net8.0\ref\ExpressoesBoolianas.dll
