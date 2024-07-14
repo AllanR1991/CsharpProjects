@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ExpressoesBoolianas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a934c32d865a45924644cc907cf6f5fc49d45d5b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2c34f2099675fa278875ab998086bf6994fd7746")]
 [assembly: System.Reflection.AssemblyProductAttribute("ExpressoesBoolianas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ExpressoesBoolianas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,14 @@
+C:\Users\allan\Documents\Projetos\CsharpProjects\DesafioExpressãoBoolianas\bin\Debug\net8.0\DesafioExpressãoBoolianas.exe
+C:\Users\allan\Documents\Projetos\CsharpProjects\DesafioExpressãoBoolianas\bin\Debug\net8.0\DesafioExpressãoBoolianas.deps.json
+C:\Users\allan\Documents\Projetos\CsharpProjects\DesafioExpressãoBoolianas\bin\Debug\net8.0\DesafioExpressãoBoolianas.runtimeconfig.json
+C:\Users\allan\Documents\Projetos\CsharpProjects\DesafioExpressãoBoolianas\bin\Debug\net8.0\DesafioExpressãoBoolianas.dll
+C:\Users\allan\Documents\Projetos\CsharpProjects\DesafioExpressãoBoolianas\bin\Debug\net8.0\DesafioExpressãoBoolianas.pdb
+C:\Users\allan\Documents\Projetos\CsharpProjects\DesafioExpressãoBoolianas\obj\Debug\net8.0\DesafioExpressãoBoolianas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allan\Documents\Projetos\CsharpProjects\DesafioExpressãoBoolianas\obj\Debug\net8.0\DesafioExpressãoBoolianas.AssemblyInfoInputs.cache
+C:\Users\allan\Documents\Projetos\CsharpProjects\DesafioExpressãoBoolianas\obj\Debug\net8.0\DesafioExpressãoBoolianas.AssemblyInfo.cs
+C:\Users\allan\Documents\Projetos\CsharpProjects\DesafioExpressãoBoolianas\obj\Debug\net8.0\DesafioExpressãoBoolianas.csproj.CoreCompileInputs.cache
+C:\Users\allan\Documents\Projetos\CsharpProjects\DesafioExpressãoBoolianas\obj\Debug\net8.0\DesafioExpressãoBoolianas.dll
+C:\Users\allan\Documents\Projetos\CsharpProjects\DesafioExpressãoBoolianas\obj\Debug\net8.0\refint\DesafioExpressãoBoolianas.dll
+C:\Users\allan\Documents\Projetos\CsharpProjects\DesafioExpressãoBoolianas\obj\Debug\net8.0\DesafioExpressãoBoolianas.pdb
+C:\Users\allan\Documents\Projetos\CsharpProjects\DesafioExpressãoBoolianas\obj\Debug\net8.0\DesafioExpressãoBoolianas.genruntimeconfig.cache
+C:\Users\allan\Documents\Projetos\CsharpProjects\DesafioExpressãoBoolianas\obj\Debug\net8.0\ref\DesafioExpressãoBoolianas.dll

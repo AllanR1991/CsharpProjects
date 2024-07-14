@@ -1,0 +1,14 @@
+C:\Users\allan\Documents\Projetos\CsharpProjects\DesafioCaraOuCoroa\bin\Debug\net8.0\DesafioCaraOuCoroa.exe
+C:\Users\allan\Documents\Projetos\CsharpProjects\DesafioCaraOuCoroa\bin\Debug\net8.0\DesafioCaraOuCoroa.deps.json
+C:\Users\allan\Documents\Projetos\CsharpProjects\DesafioCaraOuCoroa\bin\Debug\net8.0\DesafioCaraOuCoroa.runtimeconfig.json
+C:\Users\allan\Documents\Projetos\CsharpProjects\DesafioCaraOuCoroa\bin\Debug\net8.0\DesafioCaraOuCoroa.dll
+C:\Users\allan\Documents\Projetos\CsharpProjects\DesafioCaraOuCoroa\bin\Debug\net8.0\DesafioCaraOuCoroa.pdb
+C:\Users\allan\Documents\Projetos\CsharpProjects\DesafioCaraOuCoroa\obj\Debug\net8.0\DesafioCaraOuCoroa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allan\Documents\Projetos\CsharpProjects\DesafioCaraOuCoroa\obj\Debug\net8.0\DesafioCaraOuCoroa.AssemblyInfoInputs.cache
+C:\Users\allan\Documents\Projetos\CsharpProjects\DesafioCaraOuCoroa\obj\Debug\net8.0\DesafioCaraOuCoroa.AssemblyInfo.cs
+C:\Users\allan\Documents\Projetos\CsharpProjects\DesafioCaraOuCoroa\obj\Debug\net8.0\DesafioCaraOuCoroa.csproj.CoreCompileInputs.cache
+C:\Users\allan\Documents\Projetos\CsharpProjects\DesafioCaraOuCoroa\obj\Debug\net8.0\DesafioCaraOuCoroa.dll
+C:\Users\allan\Documents\Projetos\CsharpProjects\DesafioCaraOuCoroa\obj\Debug\net8.0\refint\DesafioCaraOuCoroa.dll
+C:\Users\allan\Documents\Projetos\CsharpProjects\DesafioCaraOuCoroa\obj\Debug\net8.0\DesafioCaraOuCoroa.pdb
+C:\Users\allan\Documents\Projetos\CsharpProjects\DesafioCaraOuCoroa\obj\Debug\net8.0\DesafioCaraOuCoroa.genruntimeconfig.cache
+C:\Users\allan\Documents\Projetos\CsharpProjects\DesafioCaraOuCoroa\obj\Debug\net8.0\ref\DesafioCaraOuCoroa.dll

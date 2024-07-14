@@ -1,0 +1,14 @@
+C:\Users\allan\Documents\Projetos\CsharpProjects\EscopoDeVariavel\bin\Debug\net8.0\EscopoDeVariavel.exe
+C:\Users\allan\Documents\Projetos\CsharpProjects\EscopoDeVariavel\bin\Debug\net8.0\EscopoDeVariavel.deps.json
+C:\Users\allan\Documents\Projetos\CsharpProjects\EscopoDeVariavel\bin\Debug\net8.0\EscopoDeVariavel.runtimeconfig.json
+C:\Users\allan\Documents\Projetos\CsharpProjects\EscopoDeVariavel\bin\Debug\net8.0\EscopoDeVariavel.dll
+C:\Users\allan\Documents\Projetos\CsharpProjects\EscopoDeVariavel\bin\Debug\net8.0\EscopoDeVariavel.pdb
+C:\Users\allan\Documents\Projetos\CsharpProjects\EscopoDeVariavel\obj\Debug\net8.0\EscopoDeVariavel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allan\Documents\Projetos\CsharpProjects\EscopoDeVariavel\obj\Debug\net8.0\EscopoDeVariavel.AssemblyInfoInputs.cache
+C:\Users\allan\Documents\Projetos\CsharpProjects\EscopoDeVariavel\obj\Debug\net8.0\EscopoDeVariavel.AssemblyInfo.cs
+C:\Users\allan\Documents\Projetos\CsharpProjects\EscopoDeVariavel\obj\Debug\net8.0\EscopoDeVariavel.csproj.CoreCompileInputs.cache
+C:\Users\allan\Documents\Projetos\CsharpProjects\EscopoDeVariavel\obj\Debug\net8.0\EscopoDeVariavel.dll
+C:\Users\allan\Documents\Projetos\CsharpProjects\EscopoDeVariavel\obj\Debug\net8.0\refint\EscopoDeVariavel.dll
+C:\Users\allan\Documents\Projetos\CsharpProjects\EscopoDeVariavel\obj\Debug\net8.0\EscopoDeVariavel.pdb
+C:\Users\allan\Documents\Projetos\CsharpProjects\EscopoDeVariavel\obj\Debug\net8.0\EscopoDeVariavel.genruntimeconfig.cache
+C:\Users\allan\Documents\Projetos\CsharpProjects\EscopoDeVariavel\obj\Debug\net8.0\ref\EscopoDeVariavel.dll

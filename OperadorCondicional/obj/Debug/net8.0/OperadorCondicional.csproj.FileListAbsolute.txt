@@ -1,0 +1,14 @@
+C:\Users\allan\Documents\Projetos\CsharpProjects\OperadorCondicional\bin\Debug\net8.0\OperadorCondicional.exe
+C:\Users\allan\Documents\Projetos\CsharpProjects\OperadorCondicional\bin\Debug\net8.0\OperadorCondicional.deps.json
+C:\Users\allan\Documents\Projetos\CsharpProjects\OperadorCondicional\bin\Debug\net8.0\OperadorCondicional.runtimeconfig.json
+C:\Users\allan\Documents\Projetos\CsharpProjects\OperadorCondicional\bin\Debug\net8.0\OperadorCondicional.dll
+C:\Users\allan\Documents\Projetos\CsharpProjects\OperadorCondicional\bin\Debug\net8.0\OperadorCondicional.pdb
+C:\Users\allan\Documents\Projetos\CsharpProjects\OperadorCondicional\obj\Debug\net8.0\OperadorCondicional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allan\Documents\Projetos\CsharpProjects\OperadorCondicional\obj\Debug\net8.0\OperadorCondicional.AssemblyInfoInputs.cache
+C:\Users\allan\Documents\Projetos\CsharpProjects\OperadorCondicional\obj\Debug\net8.0\OperadorCondicional.AssemblyInfo.cs
+C:\Users\allan\Documents\Projetos\CsharpProjects\OperadorCondicional\obj\Debug\net8.0\OperadorCondicional.csproj.CoreCompileInputs.cache
+C:\Users\allan\Documents\Projetos\CsharpProjects\OperadorCondicional\obj\Debug\net8.0\OperadorCondicional.dll
+C:\Users\allan\Documents\Projetos\CsharpProjects\OperadorCondicional\obj\Debug\net8.0\refint\OperadorCondicional.dll
+C:\Users\allan\Documents\Projetos\CsharpProjects\OperadorCondicional\obj\Debug\net8.0\OperadorCondicional.pdb
+C:\Users\allan\Documents\Projetos\CsharpProjects\OperadorCondicional\obj\Debug\net8.0\OperadorCondicional.genruntimeconfig.cache
+C:\Users\allan\Documents\Projetos\CsharpProjects\OperadorCondicional\obj\Debug\net8.0\ref\OperadorCondicional.dll

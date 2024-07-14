@@ -1,0 +1,14 @@
+C:\Users\allan\Documents\Projetos\CsharpProjects\DesafioEscopoDeVariavel\obj\Debug\net8.0\DesafioEscopoDeVariavel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allan\Documents\Projetos\CsharpProjects\DesafioEscopoDeVariavel\obj\Debug\net8.0\DesafioEscopoDeVariavel.AssemblyInfoInputs.cache
+C:\Users\allan\Documents\Projetos\CsharpProjects\DesafioEscopoDeVariavel\obj\Debug\net8.0\DesafioEscopoDeVariavel.AssemblyInfo.cs
+C:\Users\allan\Documents\Projetos\CsharpProjects\DesafioEscopoDeVariavel\obj\Debug\net8.0\DesafioEscopoDeVariavel.csproj.CoreCompileInputs.cache
+C:\Users\allan\Documents\Projetos\CsharpProjects\DesafioEscopoDeVariavel\bin\Debug\net8.0\DesafioEscopoDeVariavel.exe
+C:\Users\allan\Documents\Projetos\CsharpProjects\DesafioEscopoDeVariavel\bin\Debug\net8.0\DesafioEscopoDeVariavel.deps.json
+C:\Users\allan\Documents\Projetos\CsharpProjects\DesafioEscopoDeVariavel\bin\Debug\net8.0\DesafioEscopoDeVariavel.runtimeconfig.json
+C:\Users\allan\Documents\Projetos\CsharpProjects\DesafioEscopoDeVariavel\bin\Debug\net8.0\DesafioEscopoDeVariavel.dll
+C:\Users\allan\Documents\Projetos\CsharpProjects\DesafioEscopoDeVariavel\bin\Debug\net8.0\DesafioEscopoDeVariavel.pdb
+C:\Users\allan\Documents\Projetos\CsharpProjects\DesafioEscopoDeVariavel\obj\Debug\net8.0\DesafioEscopoDeVariavel.dll
+C:\Users\allan\Documents\Projetos\CsharpProjects\DesafioEscopoDeVariavel\obj\Debug\net8.0\refint\DesafioEscopoDeVariavel.dll
+C:\Users\allan\Documents\Projetos\CsharpProjects\DesafioEscopoDeVariavel\obj\Debug\net8.0\DesafioEscopoDeVariavel.pdb
+C:\Users\allan\Documents\Projetos\CsharpProjects\DesafioEscopoDeVariavel\obj\Debug\net8.0\DesafioEscopoDeVariavel.genruntimeconfig.cache
+C:\Users\allan\Documents\Projetos\CsharpProjects\DesafioEscopoDeVariavel\obj\Debug\net8.0\ref\DesafioEscopoDeVariavel.dll

@@ -1,0 +1,14 @@
+C:\Users\allan\Documents\Projetos\CsharpProjects\RemoverBlocoDeCodigoEmIf\bin\Debug\net8.0\RemoverBlocoDeCodigoEmIf.exe
+C:\Users\allan\Documents\Projetos\CsharpProjects\RemoverBlocoDeCodigoEmIf\bin\Debug\net8.0\RemoverBlocoDeCodigoEmIf.deps.json
+C:\Users\allan\Documents\Projetos\CsharpProjects\RemoverBlocoDeCodigoEmIf\bin\Debug\net8.0\RemoverBlocoDeCodigoEmIf.runtimeconfig.json
+C:\Users\allan\Documents\Projetos\CsharpProjects\RemoverBlocoDeCodigoEmIf\bin\Debug\net8.0\RemoverBlocoDeCodigoEmIf.dll
+C:\Users\allan\Documents\Projetos\CsharpProjects\RemoverBlocoDeCodigoEmIf\bin\Debug\net8.0\RemoverBlocoDeCodigoEmIf.pdb
+C:\Users\allan\Documents\Projetos\CsharpProjects\RemoverBlocoDeCodigoEmIf\obj\Debug\net8.0\RemoverBlocoDeCodigoEmIf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allan\Documents\Projetos\CsharpProjects\RemoverBlocoDeCodigoEmIf\obj\Debug\net8.0\RemoverBlocoDeCodigoEmIf.AssemblyInfoInputs.cache
+C:\Users\allan\Documents\Projetos\CsharpProjects\RemoverBlocoDeCodigoEmIf\obj\Debug\net8.0\RemoverBlocoDeCodigoEmIf.AssemblyInfo.cs
+C:\Users\allan\Documents\Projetos\CsharpProjects\RemoverBlocoDeCodigoEmIf\obj\Debug\net8.0\RemoverBlocoDeCodigoEmIf.csproj.CoreCompileInputs.cache
+C:\Users\allan\Documents\Projetos\CsharpProjects\RemoverBlocoDeCodigoEmIf\obj\Debug\net8.0\RemoverBlocoDeCodigoEmIf.dll
+C:\Users\allan\Documents\Projetos\CsharpProjects\RemoverBlocoDeCodigoEmIf\obj\Debug\net8.0\refint\RemoverBlocoDeCodigoEmIf.dll
+C:\Users\allan\Documents\Projetos\CsharpProjects\RemoverBlocoDeCodigoEmIf\obj\Debug\net8.0\RemoverBlocoDeCodigoEmIf.pdb
+C:\Users\allan\Documents\Projetos\CsharpProjects\RemoverBlocoDeCodigoEmIf\obj\Debug\net8.0\RemoverBlocoDeCodigoEmIf.genruntimeconfig.cache
+C:\Users\allan\Documents\Projetos\CsharpProjects\RemoverBlocoDeCodigoEmIf\obj\Debug\net8.0\ref\RemoverBlocoDeCodigoEmIf.dll
