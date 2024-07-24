@@ -1,0 +1,15 @@
+C:\Users\allan\Desktop\CsharpProjects\DoWhile\bin\Debug\net8.0\DoWhile.exe
+C:\Users\allan\Desktop\CsharpProjects\DoWhile\bin\Debug\net8.0\DoWhile.deps.json
+C:\Users\allan\Desktop\CsharpProjects\DoWhile\bin\Debug\net8.0\DoWhile.runtimeconfig.json
+C:\Users\allan\Desktop\CsharpProjects\DoWhile\bin\Debug\net8.0\DoWhile.dll
+C:\Users\allan\Desktop\CsharpProjects\DoWhile\bin\Debug\net8.0\DoWhile.pdb
+C:\Users\allan\Desktop\CsharpProjects\DoWhile\obj\Debug\net8.0\DoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allan\Desktop\CsharpProjects\DoWhile\obj\Debug\net8.0\DoWhile.AssemblyInfoInputs.cache
+C:\Users\allan\Desktop\CsharpProjects\DoWhile\obj\Debug\net8.0\DoWhile.AssemblyInfo.cs
+C:\Users\allan\Desktop\CsharpProjects\DoWhile\obj\Debug\net8.0\DoWhile.csproj.CoreCompileInputs.cache
+C:\Users\allan\Desktop\CsharpProjects\DoWhile\obj\Debug\net8.0\DoWhile.sourcelink.json
+C:\Users\allan\Desktop\CsharpProjects\DoWhile\obj\Debug\net8.0\DoWhile.dll
+C:\Users\allan\Desktop\CsharpProjects\DoWhile\obj\Debug\net8.0\refint\DoWhile.dll
+C:\Users\allan\Desktop\CsharpProjects\DoWhile\obj\Debug\net8.0\DoWhile.pdb
+C:\Users\allan\Desktop\CsharpProjects\DoWhile\obj\Debug\net8.0\DoWhile.genruntimeconfig.cache
+C:\Users\allan\Desktop\CsharpProjects\DoWhile\obj\Debug\net8.0\ref\DoWhile.dll

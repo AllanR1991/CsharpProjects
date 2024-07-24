@@ -1,0 +1,15 @@
+C:\Users\allan\Desktop\CsharpProjects\Projeto1ValidaEntradaInteiro\obj\Debug\net8.0\Projeto1ValidaEntradaInteiro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allan\Desktop\CsharpProjects\Projeto1ValidaEntradaInteiro\obj\Debug\net8.0\Projeto1ValidaEntradaInteiro.AssemblyInfoInputs.cache
+C:\Users\allan\Desktop\CsharpProjects\Projeto1ValidaEntradaInteiro\obj\Debug\net8.0\Projeto1ValidaEntradaInteiro.AssemblyInfo.cs
+C:\Users\allan\Desktop\CsharpProjects\Projeto1ValidaEntradaInteiro\obj\Debug\net8.0\Projeto1ValidaEntradaInteiro.csproj.CoreCompileInputs.cache
+C:\Users\allan\Desktop\CsharpProjects\Projeto1ValidaEntradaInteiro\obj\Debug\net8.0\Projeto1ValidaEntradaInteiro.sourcelink.json
+C:\Users\allan\Desktop\CsharpProjects\Projeto1ValidaEntradaInteiro\bin\Debug\net8.0\Projeto1ValidaEntradaInteiro.exe
+C:\Users\allan\Desktop\CsharpProjects\Projeto1ValidaEntradaInteiro\bin\Debug\net8.0\Projeto1ValidaEntradaInteiro.deps.json
+C:\Users\allan\Desktop\CsharpProjects\Projeto1ValidaEntradaInteiro\bin\Debug\net8.0\Projeto1ValidaEntradaInteiro.runtimeconfig.json
+C:\Users\allan\Desktop\CsharpProjects\Projeto1ValidaEntradaInteiro\bin\Debug\net8.0\Projeto1ValidaEntradaInteiro.dll
+C:\Users\allan\Desktop\CsharpProjects\Projeto1ValidaEntradaInteiro\bin\Debug\net8.0\Projeto1ValidaEntradaInteiro.pdb
+C:\Users\allan\Desktop\CsharpProjects\Projeto1ValidaEntradaInteiro\obj\Debug\net8.0\Projeto1ValidaEntradaInteiro.dll
+C:\Users\allan\Desktop\CsharpProjects\Projeto1ValidaEntradaInteiro\obj\Debug\net8.0\refint\Projeto1ValidaEntradaInteiro.dll
+C:\Users\allan\Desktop\CsharpProjects\Projeto1ValidaEntradaInteiro\obj\Debug\net8.0\Projeto1ValidaEntradaInteiro.pdb
+C:\Users\allan\Desktop\CsharpProjects\Projeto1ValidaEntradaInteiro\obj\Debug\net8.0\Projeto1ValidaEntradaInteiro.genruntimeconfig.cache
+C:\Users\allan\Desktop\CsharpProjects\Projeto1ValidaEntradaInteiro\obj\Debug\net8.0\ref\Projeto1ValidaEntradaInteiro.dll

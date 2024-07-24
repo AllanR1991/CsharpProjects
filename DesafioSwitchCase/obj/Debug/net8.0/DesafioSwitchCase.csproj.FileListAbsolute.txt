@@ -1,0 +1,15 @@
+C:\Users\allan\Desktop\CsharpProjects\DesafioSwitchCase\bin\Debug\net8.0\DesafioSwitchCase.exe
+C:\Users\allan\Desktop\CsharpProjects\DesafioSwitchCase\bin\Debug\net8.0\DesafioSwitchCase.deps.json
+C:\Users\allan\Desktop\CsharpProjects\DesafioSwitchCase\bin\Debug\net8.0\DesafioSwitchCase.runtimeconfig.json
+C:\Users\allan\Desktop\CsharpProjects\DesafioSwitchCase\bin\Debug\net8.0\DesafioSwitchCase.dll
+C:\Users\allan\Desktop\CsharpProjects\DesafioSwitchCase\bin\Debug\net8.0\DesafioSwitchCase.pdb
+C:\Users\allan\Desktop\CsharpProjects\DesafioSwitchCase\obj\Debug\net8.0\DesafioSwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allan\Desktop\CsharpProjects\DesafioSwitchCase\obj\Debug\net8.0\DesafioSwitchCase.AssemblyInfoInputs.cache
+C:\Users\allan\Desktop\CsharpProjects\DesafioSwitchCase\obj\Debug\net8.0\DesafioSwitchCase.AssemblyInfo.cs
+C:\Users\allan\Desktop\CsharpProjects\DesafioSwitchCase\obj\Debug\net8.0\DesafioSwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\allan\Desktop\CsharpProjects\DesafioSwitchCase\obj\Debug\net8.0\DesafioSwitchCase.sourcelink.json
+C:\Users\allan\Desktop\CsharpProjects\DesafioSwitchCase\obj\Debug\net8.0\DesafioSwitchCase.dll
+C:\Users\allan\Desktop\CsharpProjects\DesafioSwitchCase\obj\Debug\net8.0\refint\DesafioSwitchCase.dll
+C:\Users\allan\Desktop\CsharpProjects\DesafioSwitchCase\obj\Debug\net8.0\DesafioSwitchCase.pdb
+C:\Users\allan\Desktop\CsharpProjects\DesafioSwitchCase\obj\Debug\net8.0\DesafioSwitchCase.genruntimeconfig.cache
+C:\Users\allan\Desktop\CsharpProjects\DesafioSwitchCase\obj\Debug\net8.0\ref\DesafioSwitchCase.dll

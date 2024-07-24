@@ -1,0 +1,15 @@
+C:\Users\allan\Desktop\CsharpProjects\GerenciandoEntradaDoUsuario\bin\Debug\net8.0\GerenciandoEntradaDoUsuario.exe
+C:\Users\allan\Desktop\CsharpProjects\GerenciandoEntradaDoUsuario\bin\Debug\net8.0\GerenciandoEntradaDoUsuario.deps.json
+C:\Users\allan\Desktop\CsharpProjects\GerenciandoEntradaDoUsuario\bin\Debug\net8.0\GerenciandoEntradaDoUsuario.runtimeconfig.json
+C:\Users\allan\Desktop\CsharpProjects\GerenciandoEntradaDoUsuario\bin\Debug\net8.0\GerenciandoEntradaDoUsuario.dll
+C:\Users\allan\Desktop\CsharpProjects\GerenciandoEntradaDoUsuario\bin\Debug\net8.0\GerenciandoEntradaDoUsuario.pdb
+C:\Users\allan\Desktop\CsharpProjects\GerenciandoEntradaDoUsuario\obj\Debug\net8.0\GerenciandoEntradaDoUsuario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allan\Desktop\CsharpProjects\GerenciandoEntradaDoUsuario\obj\Debug\net8.0\GerenciandoEntradaDoUsuario.AssemblyInfoInputs.cache
+C:\Users\allan\Desktop\CsharpProjects\GerenciandoEntradaDoUsuario\obj\Debug\net8.0\GerenciandoEntradaDoUsuario.AssemblyInfo.cs
+C:\Users\allan\Desktop\CsharpProjects\GerenciandoEntradaDoUsuario\obj\Debug\net8.0\GerenciandoEntradaDoUsuario.csproj.CoreCompileInputs.cache
+C:\Users\allan\Desktop\CsharpProjects\GerenciandoEntradaDoUsuario\obj\Debug\net8.0\GerenciandoEntradaDoUsuario.sourcelink.json
+C:\Users\allan\Desktop\CsharpProjects\GerenciandoEntradaDoUsuario\obj\Debug\net8.0\GerenciandoEntradaDoUsuario.dll
+C:\Users\allan\Desktop\CsharpProjects\GerenciandoEntradaDoUsuario\obj\Debug\net8.0\refint\GerenciandoEntradaDoUsuario.dll
+C:\Users\allan\Desktop\CsharpProjects\GerenciandoEntradaDoUsuario\obj\Debug\net8.0\GerenciandoEntradaDoUsuario.pdb
+C:\Users\allan\Desktop\CsharpProjects\GerenciandoEntradaDoUsuario\obj\Debug\net8.0\GerenciandoEntradaDoUsuario.genruntimeconfig.cache
+C:\Users\allan\Desktop\CsharpProjects\GerenciandoEntradaDoUsuario\obj\Debug\net8.0\ref\GerenciandoEntradaDoUsuario.dll

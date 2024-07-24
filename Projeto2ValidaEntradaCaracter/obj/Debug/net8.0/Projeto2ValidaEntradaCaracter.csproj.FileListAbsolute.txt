@@ -1,0 +1,5 @@
+C:\Users\allan\Desktop\CsharpProjects\Projeto2ValidaEntradaCaracter\obj\Debug\net8.0\Projeto2ValidaEntradaCaracter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allan\Desktop\CsharpProjects\Projeto2ValidaEntradaCaracter\obj\Debug\net8.0\Projeto2ValidaEntradaCaracter.AssemblyInfoInputs.cache
+C:\Users\allan\Desktop\CsharpProjects\Projeto2ValidaEntradaCaracter\obj\Debug\net8.0\Projeto2ValidaEntradaCaracter.AssemblyInfo.cs
+C:\Users\allan\Desktop\CsharpProjects\Projeto2ValidaEntradaCaracter\obj\Debug\net8.0\Projeto2ValidaEntradaCaracter.csproj.CoreCompileInputs.cache
+C:\Users\allan\Desktop\CsharpProjects\Projeto2ValidaEntradaCaracter\obj\Debug\net8.0\Projeto2ValidaEntradaCaracter.sourcelink.json
